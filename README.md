@@ -95,4 +95,12 @@ Ensure food security 🌾
 
 SCREENSHOTS:
 <img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/114c1b2e-8673-44e7-9c86-77d64c2ae1f2" />
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/76b24d00-6f6c-48d7-bab8-55bfaa523a1a" />
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/49139d00-e0fb-4080-bbde-8980777e3fba" />
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/bcdc023e-fb56-4ae0-88b5-c3c052187341" />
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/df9c452d-9cad-4aad-b491-212f1f69ae13" />
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/5d723382-2173-4591-89b0-fd89190d7505" />
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f4cf9042-b5e7-44b8-b530-2c3e0b0ee6ef" />
+<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/50d4331c-8b3f-4489-835b-85aaceb33393" />
+
 
