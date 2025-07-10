@@ -92,3 +92,7 @@ Improve decision-making 🧠
 Ensure food security 🌾
 🧑‍💻 Developed with passion to empower modern farming!
 
+
+SCREENSHOTS:
+<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/114c1b2e-8673-44e7-9c86-77d64c2ae1f2" />
+
