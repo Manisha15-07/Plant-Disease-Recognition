@@ -102,5 +102,3 @@ SCREENSHOTS:
 <img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/5d723382-2173-4591-89b0-fd89190d7505" />
 <img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f4cf9042-b5e7-44b8-b530-2c3e0b0ee6ef" />
 <img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/50d4331c-8b3f-4489-835b-85aaceb33393" />
-
-
